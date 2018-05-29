@@ -1,0 +1,8 @@
+main: me.mrletsplay.scs.Main
+name: SimpleCommandSpy
+version: 3.0
+author: MrLetsplay2003
+softdepend: [MrCore_BukkitImpl]
+
+commands:
+  commandspy:
